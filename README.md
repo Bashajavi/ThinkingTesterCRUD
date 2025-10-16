@@ -18,11 +18,11 @@ This project automates end-to-end **CRUD (Create, Read, Update, Delete)** operat
 ---
 
 ## ✅ Features Covered
-Login and Logout
-Add New Contact
-Edit Existing Contact
-Delete Contact
-Validate CRUD Flow
+- Login and Logout
+- Add New Contact
+- Edit Existing Contact
+- Delete Contact
+- Validate CRUD Flow
 
 ---
 
